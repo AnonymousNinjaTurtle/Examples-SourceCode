@@ -1,0 +1,177 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "subject",
+      "predicate",
+      "object"
+    ]
+  },
+  "results": {
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "object": {
+          "type": "uri",
+          "value": "http://dbpedia.org/ontology/Agent"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "object": {
+          "type": "uri",
+          "value": "http://dbpedia.org/ontology/Person"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://dbpedia.org/ontology/birthDate"
+        },
+        "object": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1856-07-10"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://dbpedia.org/ontology/deathDate"
+        },
+        "object": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1943-01-07"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "object": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Nikola Tesla"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#comment"
+        },
+        "object": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Nikola Tesla (; Serbian Cyrillic: Никола Тесла; pronounced [nǐkola têsla]; 10 July 1856 – 7 January 1943) was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system."
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf"
+        },
+        "object": {
+          "type": "uri",
+          "value": "http://en.wikipedia.org/wiki/Nikola_Tesla"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://xmlns.com/foaf/0.1/depiction"
+        },
+        "object": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla_circa_1890.jpeg"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://xmlns.com/foaf/0.1/depiction"
+        },
+        "object": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/N.Tesla.JPG"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://xmlns.com/foaf/0.1/name"
+        },
+        "object": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Nikola Tesla"
+        }
+      },
+      {
+        "subject": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Nikola_Tesla"
+        },
+        "predicate": {
+          "type": "uri",
+          "value": "http://xmlns.com/foaf/0.1/gender"
+        },
+        "object": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "male"
+        }
+      }
+    ]
+  }
+}
+

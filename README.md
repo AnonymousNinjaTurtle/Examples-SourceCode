@@ -1,5 +1,5 @@
 # Source code for the examples application 
-[link](https://anonymousninjaturtle.github.io/Examples/)
+[link to examples running as GitHub Pages](https://anonymousninjaturtle.github.io/Examples/)
 
 To recreate the app run 
 
